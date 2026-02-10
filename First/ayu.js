@@ -1,1 +1,1 @@
-console.log("my fir program")
+console.log("my first program")
